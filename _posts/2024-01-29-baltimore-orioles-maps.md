@@ -17,3 +17,5 @@ It is important to note that the data comes from self reported sightings by bird
 This helps explain why counties with urban areas record such high numbers of sightings while counties that are neighboring the cities but are more rural, and may in fact have more suitable oriole habitat, have fewer recorded sightings.
 
 With that being said, the concentration of sightings in the dark orange counties are notable and do likely reflect a higher likelihood of a birdwatcher going out and seeing a Baltimore Oriole. 
+
+Happy bird watching and here's to more sightings of Orioles in the wild and on the diamond. 

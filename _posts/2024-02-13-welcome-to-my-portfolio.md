@@ -11,3 +11,5 @@ Studies at the Erasmus University Rotterdam.
 
 Contact me to collaborate on a project!
 
+sebastianrosemont [@] gmail [.] com
+
