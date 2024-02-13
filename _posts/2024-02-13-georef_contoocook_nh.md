@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Georeferencing 1892 Sanborn Map of Contoocook, NH"
+title:  "Georeferencing a 1892 Sanborn Map of Contoocook, NH"
 date:   2024-02-13 00:00:00 +0100
 categories: maps
 ---
