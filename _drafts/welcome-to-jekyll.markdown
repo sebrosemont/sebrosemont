@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Welcome to Jekyll"
-date:   2024-01-12 14:45:58 +0100
+date:   
 categories: jekyll update
 ---
 

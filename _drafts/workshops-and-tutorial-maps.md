@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Maps: Tutorials and Workshop Projects"
-date:   2024-01-15 15:45:00 +0100
+date:   
 categories: maps
 ---
 To celebrate the Baltimore Orioles (the baseball team) winning 100 games in 2023, I made a map of recorded sightings by birdwartchers in the United States by county. 
