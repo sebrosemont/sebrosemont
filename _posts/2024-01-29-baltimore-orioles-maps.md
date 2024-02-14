@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Map: Baltimore Orioles Sightings in 2022"
+title:  "Map: Baltimore Oriole Sightings in 2022"
 date:   2024-01-29 15:45:00 +0100
 categories: maps
 ---
-To celebrate the Baltimore Orioles (the baseball team) winning 100 games in 2023, I made a map of recorded sightings by birdwartchers in the United States by county. 
+To celebrate the Baltimore Orioles (the baseball team) winning 100 games in 2023, I made a map of recorded sightings by birdwatchers in the United States by county. 
 
-There were over 1 millions recorded sightings across the US. This map focuses on the northern and eastern parts of the coutry - the regular summer habitat for Baltimore Orioles.
+There were over 1 million recorded sightings across the US. This map focuses on the northern and eastern parts of the coutry - the regular summer habitat for Baltimore Orioles.
  
 ![Baltimore Oriole sightings in 2022](/assets/images/baltimore_orioles_map/Baltimore_Oriole_Sightings_2022.png)
 
