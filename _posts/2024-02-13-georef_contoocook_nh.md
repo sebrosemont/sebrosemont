@@ -6,9 +6,9 @@ categories: maps
 ---
 While researching historical maps I came across the treasure trove of Sanborn maps that are in the public domain and have been digitaized by the Library of Congress. The Sanborn Map Company (a company that still exists today) produced detailed fire insurance maps of cities and towns across the United States. The earliest available maps are from the late-1860s although the majority come from the 1880s through the 1950s.  
 
-Contoocook is a small town located in the Town of Hopkinton in Merrimack County, New Hampshire. It has a covered railroad bridge that was first built in the mid-1800s and is an historic building that is included in the National Register of Historic Places. 
+Contoocook is a small town located in the Town of Hopkinton in Merrimack County, New Hampshire. It has a covered railroad bridge that was first built in the mid-1800s and is a historic building that is included in the National Register of Historic Places. 
 
-As a small town with a historic past and, like many towns in New England, a center where many original houses and buildings remain, it is an interesting case study for georeferencing an historic map to compare with the present day. 
+As a small town with a historic past and, like many towns in New England, a center where many original houses and buildings remain, it is an interesting case study for georeferencing a historic map to compare with the present day. 
 
 The first step was to take the historic map and georeference it, which means assigning geographic coordinates to points on the Sanborn map. I used satellite imagery from Google to identify the reference points. The result is in the first map below. 
 
