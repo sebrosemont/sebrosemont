@@ -4,8 +4,12 @@ title:  "Maps: Tutorials and Workshop Projects"
 date:   
 categories: maps
 ---
-To celebrate the Baltimore Orioles (the baseball team) winning 100 games in 2023, I made a map of recorded sightings by birdwartchers in the United States by county. 
-
-There were over 1 millions recorded sightings across the US. This map focuses on the northern and eastern parts of the coutry - the regular summer habitat for Baltimore Orioles.
+While learning QGIS, I found many great resources available online to build new skills and efectively use the software. I enjoyed the self guided tutorials from Columbia University Center for Spatial Research, available for free on GitHub, and found them to be easy to follow and useful for skill development. https://github.com/CenterForSpatialResearch/mapping_architecture_urbanism_humanities/blob/master/README.md
  
-![Baltimore Oriole sightings in 2022](/assets/images/Baltimore_Oriole_Sightings_2022.png)
+Below are the maps I created based on the tutorials. In some cases I used more recent data from New York City for my maps.
+
+![NYC Noise Complaints 2019 Jan - Jun](/assets/images/workshops_tutorials_maps/NYC_Noise_Complaints_2019_6month.png)
+
+![NYC Foreign Born Population](/assets/images/workshops_tutorials_maps/nyc_foreign_born_pop.png)
+
+![World Population (Density by km)](/assets/images/workshops_tutorials_maps/world_population_heatmap.png)
