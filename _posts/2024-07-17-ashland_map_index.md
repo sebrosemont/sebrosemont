@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Past Publications"
-date:   15/01/2024 00:00:00 +0100
+date:   17/07/2024 00:00:00 +0100
 categories: posts
 ---
 doctype html>
