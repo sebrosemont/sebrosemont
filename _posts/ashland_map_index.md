@@ -1,4 +1,10 @@
-<!doctype html>
+---
+layout: single
+title:  "Past Publications"
+date:   15/01/2024 00:00:00 +0100
+categories: posts
+---
+doctype html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
